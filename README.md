@@ -1,5 +1,5 @@
 # Sistema-de-Control-de-Inventarios-
-Sitio web para registrar la cantidad de productos existentes y productos vendidos, creado con Java, HTML, CSS y Servlets. 
+Sitio web para registrar la cantidad de productos existentes y productos vendidos, así como también el historial de ventas; creado con Java, HTML, CSS y Servlets. 
 
 ### Autor
 Daniela Rodríguez 
